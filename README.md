@@ -8,7 +8,11 @@
 ![image](https://github.com/Warrendsouza/Powered_Paraglider/assets/68582447/5b9b19f2-bcde-42d4-a2f3-776ca380e748)
 *Paraglider in the Game engine
 ![image](https://github.com/Warrendsouza/Powered_Paraglider/assets/68582447/bf9020e6-0f2f-4020-b2e7-416c7a6057ed)
+
 ![image](https://github.com/Warrendsouza/Powered_Paraglider/assets/68582447/5178098a-3cb5-4aa1-a349-1d5cd939d0b2)
+
+
+
 *Flying the Paraglider
 ![image](https://github.com/Warrendsouza/Powered_Paraglider/assets/68582447/14648c75-132d-4bfa-a098-ed8b5681b1c9)
 
